@@ -1,0 +1,2 @@
+用來同步point_raw和imu時間資訊的程式
+主要用於liosam,低頻imu上
